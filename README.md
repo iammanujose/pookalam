@@ -4,6 +4,11 @@
 
 As a part of our Onam celebrations, we present before you a different gene of competition, to provide an opportunity for you to demonstrate your programming and artistic skills -  Draw Pookalam in Code.
 
+## Demo
+
+https://jsfiddle.net/iammanujose/fpLh2ur7/1/
+
+
 ## Quick start
 
 1. Download and place index.html and style.css in any server
