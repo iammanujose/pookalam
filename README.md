@@ -1,4 +1,4 @@
-# pookalam
+# Pookkalam
 
 “Life becomes a festival when celebrations and culture blend. Onam delivers the message of both”
 
